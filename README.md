@@ -1,6 +1,6 @@
-# chaz
+# shazbot
 
-Chaz is chaz.
+shazbot is an expansion of chaz.
 
 This is a [Matrix](https://matrix.org) bot that connects to multiple LLM providers to allow for chatting with any of the LLM models. It is compatible with any model using the OpenAI API.
 
